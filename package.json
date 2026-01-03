@@ -1,6 +1,6 @@
 {
   "name": "encurtanet",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Um simples wrapper NÃO OFICIAL da API do EncurtaNet para JavaScript",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
