@@ -1,0 +1,1 @@
+export class EncurtaNetError extends Error {}

@@ -1,4 +1,4 @@
-interface IShortenParams {
+export interface ShortenParams {
     api: string
     url: string
     alias?: string
@@ -6,4 +6,3 @@ interface IShortenParams {
     type?: number
 }
 
-export default IShortenParams

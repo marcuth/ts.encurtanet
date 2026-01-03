@@ -8,7 +8,11 @@
     "build": "tsc --declaration",
     "dev": "ts-node test.ts"
   },
-  "keywords": ["encurtanet", "wrapper", "api"],
+  "keywords": [
+    "encurtanet",
+    "wrapper",
+    "api"
+  ],
   "author": "Marcuth",
   "license": "MIT",
   "repository": {
@@ -20,6 +24,6 @@
   },
   "homepage": "https://github.com/1Marcuth/encurtanet-js#readme",
   "dependencies": {
-    "axios": "^1.2.2"
+    "axios": "^1.13.2"
   }
 }
