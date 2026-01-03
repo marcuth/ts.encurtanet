@@ -5,7 +5,7 @@ import { ShortenParams } from "./interfaces"
 import { EncurtaNetError } from "./error"
 import { AdsType } from "./enums"
 
-export const baseUrl = "https://encurta.net/api"
+export const baseUrl = "https://encurta.net/api/"
 
 export type ShortenOptions = {
     url: string
